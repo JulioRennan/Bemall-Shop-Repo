@@ -1,0 +1,6 @@
+[submodule "Bemall-App"]
+	path = Bemall-App
+	url = https://github.com/JulioRennan/Bemall-App.git
+[submodule "Bemall-Backend"]
+	path = Bemall-Backend
+	url = https://github.com/JulioRennan/Bemall-Backend.git
