@@ -10,7 +10,7 @@ Tabela de conteúdos
    * [Setup do Projeto](#setup-do-projeto)
       - [Backend](#backend)
       - [Mobile](#mobile)
-   * [Telas](#telas) 
+   * [Telas Referente ao Desafio](#telas-referente-ao-desafio) 
 <!--te-->
 
 # Pontos cumpridos do desafio:
@@ -57,8 +57,8 @@ Após realizar instalar todas as ferramentas execute os seguintes passos:
 **_*Lembre-se que o backend deve estar rodando_**
 
 ##
-# Telas
-![telas](https://user-images.githubusercontent.com/57741609/160423634-eeb4a084-e66f-444b-b0e3-2372ba785558.png)
+# Telas Referente ao Desafio
+![Telas Referente ao Desafio](https://user-images.githubusercontent.com/57741609/160423634-eeb4a084-e66f-444b-b0e3-2372ba785558.png)
 
 * A Implementação de **Login** e **Home** foi só para facilitar o teste/visualizações das criações de contas.
 
