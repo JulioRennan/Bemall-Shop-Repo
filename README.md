@@ -60,6 +60,6 @@ Após realizar instalar todas as ferramentas execute os seguintes passos:
 # Telas
 ![telas](https://user-images.githubusercontent.com/57741609/160423634-eeb4a084-e66f-444b-b0e3-2372ba785558.png)
 
-* A Implementação de **Login** e **Home** foi só para facilitar o teste de criações de contas.
+* A Implementação de **Login** e **Home** foi só para facilitar o teste/visualizações das criações de contas.
 
 
