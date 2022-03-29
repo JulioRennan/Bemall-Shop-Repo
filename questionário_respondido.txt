@@ -29,7 +29,9 @@ R:  Antes de eu responder eu vou definir alguns aspectos de um bom líder na min
     - Não sabe tudo de cabeça, no entanto tem alta capacidade de aprender.
     - Não busca culpados quando algo dá errado, mas sim soluções e maneiras que possam mitigar esses mesmos erros futuramente (mais importante).
     
-  Tendo esses atributos como base eu me sinto capaz para liderar esse o projeto, pois os escopos definidos não são totalmente desconhecidos por mim e eu tenho dominío de diversas tecnologias e das ferramentas citadas na pergunta 2, o que me torna tecnicamente viável como líder. O que me faltaria no caso seria a experiência como líder de equipe, mas dependendo da urgência do projeto, isso não seria nenhum grande impedimento.
+  Tendo esses atributos como base eu me sinto capaz para liderar esse o projeto, pois os escopos definidos não são totalmente desconhecidos por mim e eu
+  tenho dominío de diversas tecnologias e das ferramentas citadas na pergunta 2, o que me torna tecnicamente viável como líder. O que me faltaria no caso
+  seria a experiência como líder de equipe, mas dependendo da urgência do projeto, isso não seria nenhum grande impedimento.
   
 4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
 
