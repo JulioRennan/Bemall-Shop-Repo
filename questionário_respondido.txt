@@ -5,7 +5,7 @@ R:  Em Cloud, eu levei em considerações dois pontos fundamentais inerentes a q
 
   Sobre o custo: levando em consideração a jornada do usuário no App o consumo de API e o armazenamento necessário por usuário, seria bem baixo.
 Sendo provável que a aplicação rode gratuitamente durante algumas semanas. Além disso, uma solução On-premise necessita de uma pessoa muito boa em infra, 
-para poder otimizar bem os custos e otimizar o servidor. Ainda temos o problema de indisponibilidade de Rede/Energia que pode ocorrer frequentemente dependo da região.
+para poder otimizar bem os custos e otimizar do servidor. Ainda temos o problema de indisponibilidade de Rede/Energia que pode ocorrer frequentemente dependo da região.
 
   Sobre a equipe de desenvolvimento: em Cloud uma solução com JavaScript/TypeScript seria de fácil implantação e aprendizado, o que significa que 
 será mais fácil e barato encontrar pessoas capazes de darem manutenção ao backend. Além disso, o projeto inicialmente poderia ser bem enchuta e escalar com
@@ -27,21 +27,17 @@ R:  Antes de eu responder eu vou definir alguns aspectos de um bom líder na min
     - Tem noções sobre todo o fluxo do projeto.
     - Tem paciência para sentar do lado e explicar ou fazer junto, se for preciso, um novo conceito que o seu liderado tenha dificuldade.
     - Não sabe tudo de cabeça, no entanto tem alta capacidade de aprender.
-    - Não busca culpados quando algo dá errado, mas sim soluções e maneiras que possam mitigar esses mesmos erros futuramente.
+    - Não busca culpados quando algo dá errado, mas sim soluções e maneiras que possam mitigar esses mesmos erros futuramente (mais importante).
     
-  Tendo esses atributos como base eu me sinto capaz para liderar esse o projeto, pois os escopos definidos não são totalmente desconhecidos por mim e eu tenho
-dominío de diversas tecnologias e das ferramentas citadas na pergunta 2, o que me torna tecnicamente viável como líder.
-O que me faltaria no caso seria mesmo a experiência como líder de equipe, mas supondo que o projeto começaria todo do zero a falta de experiência 
-não seria uma grande impedimento.
- 
+  Tendo esses atributos como base eu me sinto capaz para liderar esse o projeto, pois os escopos definidos não são totalmente desconhecidos por mim e eu tenho dominío de diversas tecnologias e das ferramentas citadas na pergunta 2, o que me torna tecnicamente viável como líder. O que me faltaria no caso seria a experiência como líder de equipe, mas dependendo da urgência do projeto, isso não seria nenhum grande impedimento.
+  
 4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
 
-R:  Empresas voltadas para tecnologia tem um problema que a longo prazo só piorará que é a escassez de desenvolvedores. Tendo isso em vista
-seria interessante a Bemol Digital patroninar eventos que fazem hackathons, para ajudar a popularizar a empresa, facilitando a longo prazo
+R:  Empresas voltadas para a área tecnologia tem um problema que a longo prazo só piorará que é a escassez de desenvolvedores. Tendo isso em vista
+seria interessante a Bemol Digital patrocinar eventos que fazem hackathons, para ajudar a popularizar a empresa, facilitando a longo prazo
 a contratação de novos desenvolvedores. 
-  Seguindo a tendência do mercado, poderia também ser promovido programas de capacitação com contratação ao seu término.
+  Seguindo a tendência do mercado, seria proveitoso também promoção de programas de capacitação com contratação ao seu término.
 
 5. Acha válido esse desafio para o processo que está participando?
 
 R:  Sim, pois após esse processo dá para ter uma boa ideia sobre a capacidade técnica e o modo de pensar do participante.
-Além de filtrar um pouco quem realmente está motivado em incorporar o time da bemol.
