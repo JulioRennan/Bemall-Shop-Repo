@@ -32,7 +32,7 @@ Tabela de conteúdos
 O projeto foi divido em 2 componentes principais: o Backend reposável por processar toda a lógica de criação de conta/autenticação. E o Mobile é a interface que permite o usuário criar/autenticar usuários. O projeto deve funcionar independente do editor de texto usado, mas eu recomento utilizar o  [Visual Studio Code](https://code.visualstudio.com/download)
 
 ### Backend
-A implentação é uma API REST simples que necessita realizar as instalações das seguintes ferramentas para funcionar:
+A implementação é uma API REST simples que necessita realizar as instalações das seguintes ferramentas para funcionar:
  - [**NodeJS**](https://nodejs.org/en/download/): Ambiente de execução JavaScript server-side.
  - [**Docker**](https://docs.docker.com/engine/install/ubuntu/): será utilizado um container rodando um banco postgres para ser nossa base de dados.
  - [**TypeScript**](https://www.typescriptlang.org/download): adiciona tipagem ao JavaScript, permitindo ter um código mais organizado e legivel.
@@ -51,7 +51,7 @@ A implementação da interface mobile foi feita utilizando o framework Flutter e
    - [**Android Studio**](https://developer.android.com/studio): ferramenta para desenvolvimento Android Nativo.
    - [**AVD Manager**](https://developer.android.com/studio/run/managing-avds?hl=pt-br): ferramenta para configurar um novo simulador Android.
 
-Após realizar instalar todas as ferramentas execute os seguintes passos:
+Após instalar todas as ferramentas execute os seguintes passos:
    - Clone o repositório do [App](https://github.com/JulioRennan/Bemall-App)
    - Execute: ```flutter pub get```
    - Inicie um device Android do **AVD Manager**
@@ -70,7 +70,8 @@ Após realizar instalar todas as ferramentas execute os seguintes passos:
 ##
 # Descrição do Projeto
 
-A ideia do projeto consiste em um super app juntando todos os canais de vendas disponíveis na Bemol com a possibilidade de expandir para lojas terceiras também anunciarem seus produtos dentro do Bemall Shop. Mas toda a navegação e processo de compra será feita de maneira fluída sem fazer distinção do canal de venda, a única que o usuário terá é se o produto está disponível para entrada e em qual local ele está disponível para retirada, se houver. 
+A ideia do projeto consiste em um super app juntando todos os canais de vendas disponíveis na Bemol com a possibilidade de expandir para lojas terceiras também anunciarem seus produtos dentro do Bemall Shop.
+No entanto, toda a navegação e processo de compra será feita de maneira fluída sem fazer distinção do canal de venda, o único momento que o usuário terá acesso a qual canal de venda, será na verificação se o produto está disponível para entrega/retirada  e em qual local, se houver. 
 
 ##
 # C4-Model
@@ -90,7 +91,7 @@ Durante a modelagem do problema eu vi que era necessário também ter uma aplica
 ##
 
 ### Camada 3
-Nesse eu defini apenas o container de *API Aplication*, pois é nele que está toda a lógica de negócio. A estratégia a ser usada vai ser a de microserviços. Nesse caso para evitar poluir o diagrama, os componentes de conexão com o banco de dados não foram desenhados.
+Nessa eu está definida apenas o container de **API Aplication**, pois é nele que está concentrada toda a lógica de negócio. A estratégia adotada é orientada a microserviços. Por isso, os componentes de conexão com o banco de dados não foram desenhados, já que ia mais poluir o diagrama do que auxiliar no entendimento.
 
 <img width="902" alt="Captura de Tela 2022-03-28 às 23 50 07" src="https://user-images.githubusercontent.com/57741609/160529581-c476d7df-abf3-4591-8a93-64c98ec7295c.png">
 
@@ -102,7 +103,7 @@ Não foi desenhada, pois não faz sentido desenhar toda as relações de classes
 ##
 # Design do Backend
 
-O design do backend é modular orientada a microserviços. Pois além dessa estrutura permitir respeitar os princípios SOLID é de fácil compreensão e aprendizado. Além disso tem uma facilidade a ser bem escalável tanto em questão de time desenvolvendo quanto do sistema em si.
+O design do backend é modular orientada a microserviços. Pois além dessa estrutura permitir respeitar os princípios SOLID é de fácil compreensão e aprendizado. Além disso, tem uma facilidade de ser bem escalável.
 
 <img width="477" alt="Captura de Tela 2022-03-29 às 00 25 24" src="https://user-images.githubusercontent.com/57741609/160532984-70fc634c-bd59-4c14-a695-84188144cc7c.png">
 
